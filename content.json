@@ -1,0 +1,32 @@
+{
+  "Format": "2.0",
+  "Changes": [
+    {
+      "Target": "Data/Pets",
+      "Action": "EditData",
+      "TargetField": ["Cat", "Breeds"],
+      "Entries": {
+        "{{ModId}}_Cat": {
+          "Id": "{{ModId}}_Cat",
+          "Texture": "Mods/{{ModId}}/Cat",
+          "IconTexture": "Mods/{{ModId}}/Icon",
+          "IconSourceRect": {
+            "X": 0, "Y": 0, "Width": 16, "Height": 16
+          },
+          "BarkOverride": null,
+          "VoicePitch": 1.25
+        }
+      }
+    },
+    {
+      "Target": "Mods/{{ModId}}/Cat",
+      "Action": "Load",
+      "FromFile": "assets/sprites.png"
+    },
+    {
+      "Target": "Mods/{{ModId}}/Icon",
+      "Action": "Load",
+      "FromFile": "assets/icon.png"
+    }
+  ]
+}

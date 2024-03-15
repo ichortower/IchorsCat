@@ -1,0 +1,12 @@
+{
+  "Name": "Ichor's Cat",
+  "Author": "ichortower",
+  "Description": "Adds ichortower's wobbly tuxedo cat to the game.",
+  "Version": "1.0.0",
+  "UniqueID": "ichortower.IchorsCat",
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  },
+  "UpdateKeys": ["Nexus:20557", "GitHub:ichortower/IchorsCat"],
+  "Dependencies": []
+}
