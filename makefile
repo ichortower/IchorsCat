@@ -1,4 +1,4 @@
-GAME_DIR=${HOME}/.local/share/Steam/steamapps/common/Stardew Valley
+GAME_DIR=${HOME}/GOG Games/Stardew Valley/game
 MOD_DIR=${GAME_DIR}/Mods/IchorsCat
 
 install:
