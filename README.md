@@ -15,7 +15,8 @@ animations](images/crouch-sleep-lick.gif)
 (The animations are supposed to look a little janky. She was a [wobbly
 cat](https://vetmed.tamu.edu/news/pet-talk/wobbly-cat-syndrome/).)
 
-(I don't know how she will look wearing a hat. My guess is: not great.)
+(I don't recommend giving her a hat, unless you want even more jank. The hat
+appears to expect the cat's animations to follow vanilla closely.)
 
 
 ## How to Use
@@ -24,5 +25,6 @@ This mod adds an additional cat breed using [Content
 Patcher](https://github.com/Pathoschild/StardewMods/tree/develop/ContentPatcher):
 therefore, you will need SMAPI and Content Patcher in order to use it. The new
 breed will show up in the character creation menu like the vanilla cats; if you
-are adding this mod to an established farm, you should be able to switch cat
-breeds at the Shrine of Illusions at the Wizard's tower.
+are adding this mod to an established farm, you will either have to wait until
+you are able to adopt additional pets, or use the console command `debug cmenu`
+to open the character creation menu and change your initial pet.
