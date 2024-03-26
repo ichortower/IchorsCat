@@ -7,7 +7,7 @@
       "TargetField": ["Cat", "Breeds"],
       "Entries": {
         "{{ModId}}_Cat": {
-          "Id": "{{ModId}}_Cat",
+          "Id": "{{ModId}}.Cat",
           "Texture": "Mods/{{ModId}}/Cat",
           "IconTexture": "Mods/{{ModId}}/Icon",
           "IconSourceRect": {
