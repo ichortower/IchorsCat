@@ -25,11 +25,21 @@
           },
           "BarkOverride": null,
           "VoicePitch": 1.25
+        },
+        "{{ModId}}.CatCalico": {
+          "Id": "{{ModId}}.CatCalico",
+          "Texture": "Mods/{{ModId}}/CatCalico",
+          "IconTexture": "Mods/{{ModId}}/Icons",
+          "IconSourceRect": {
+            "X": 32, "Y": 0, "Width": 16, "Height": 16
+          },
+          "BarkOverride": null,
+          "VoicePitch": 1.25
         }
       }
     },
     {
-      "Target": "Mods/{{ModId}}/Cat, Mods/{{ModId}}/CatTeddy",
+      "Target": "Mods/{{ModId}}/Cat, Mods/{{ModId}}/CatTeddy, Mods/{{ModId}}/CatCalico",
       "Action": "Load",
       "FromFile": "assets/{{TargetWithoutPath}}.png"
     },
