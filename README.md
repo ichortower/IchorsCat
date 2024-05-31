@@ -5,6 +5,8 @@ departed cat.
 
 I hope she can bring you joy!
 
+Now available in three colors: Tuxedo (the original), Teddy, and Calico.
+
 ![Preview: showing walking animations](images/walk-cycles.gif)
 
 ![Preview: showing the pre-pounce crouch, sleeping, and sitting/licking
@@ -16,15 +18,16 @@ animations](images/crouch-sleep-lick.gif)
 cat](https://vetmed.tamu.edu/news/pet-talk/wobbly-cat-syndrome/).)
 
 (I don't recommend giving her a hat, unless you want even more jank. The hat
-appears to expect the cat's animations to follow vanilla closely.)
+positions are hardcoded to follow the vanilla cat animations; I don't support
+Hats On Pets Plus at this time.)
 
 
 ## How to Use
 
-This mod adds an additional cat breed using [Content
+This mod adds three additional cat breeds using [Content
 Patcher](https://github.com/Pathoschild/StardewMods/tree/develop/ContentPatcher):
 therefore, you will need SMAPI and Content Patcher in order to use it. The new
-breed will show up in the character creation menu like the vanilla cats; if you
-are adding this mod to an established farm, you will either have to wait until
-you are able to adopt additional pets, or use the console command `debug cmenu`
-to open the character creation menu and change your initial pet.
+breeds will show up in the character creation menu like the vanilla cats; if
+you are adding this mod to an established farm, you will either have to wait
+until you are able to adopt additional pets, or use the console command `debug
+cmenu` to open the character creation menu and change your initial pet.
