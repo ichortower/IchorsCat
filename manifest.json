@@ -1,8 +1,8 @@
 {
   "Name": "Ichor's Cat",
   "Author": "ichortower",
-  "Description": "Adds ichortower's wobbly tuxedo cat to the game.",
-  "Version": "1.0.1",
+  "Description": "Adds ichortower's wobbly cat to the game, now with three color options.",
+  "Version": "1.1.0",
   "UniqueID": "ichortower.IchorsCat",
   "ContentPackFor": {
     "UniqueID": "Pathoschild.ContentPatcher"
