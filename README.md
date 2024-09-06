@@ -5,7 +5,9 @@ departed cat.
 
 I hope she can bring you joy!
 
-Now available in three colors: Tuxedo (the original), Teddy, and Calico.
+Now available in five colors: Tuxedo (the original), Teddy, Calico, Midnight,
+and Cheeseburger (Cheeseburger is courtesy of hylianxprincess, included with
+her blessing).
 
 ![Preview: showing walking animations](images/walk-cycles.gif)
 
@@ -24,7 +26,7 @@ Hats On Pets Plus at this time.)
 
 ## How to Use
 
-This mod adds three additional cat breeds using [Content
+This mod adds five additional cat breeds using [Content
 Patcher](https://github.com/Pathoschild/StardewMods/tree/develop/ContentPatcher):
 therefore, you will need SMAPI and Content Patcher in order to use it. The new
 breeds will show up in the character creation menu like the vanilla cats; if
