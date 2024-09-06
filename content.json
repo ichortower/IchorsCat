@@ -35,11 +35,31 @@
           },
           "BarkOverride": null,
           "VoicePitch": 1.25
+        },
+        "{{ModId}}.CatMidnight": {
+          "Id": "{{ModId}}.CatMidnight",
+          "Texture": "Mods/{{ModId}}/CatMidnight",
+          "IconTexture": "Mods/{{ModId}}/Icons",
+          "IconSourceRect": {
+            "X": 48, "Y": 0, "Width": 16, "Height": 16
+          },
+          "BarkOverride": null,
+          "VoicePitch": 1.25
+        },
+        "{{ModId}}.CatCheeseburger": {
+          "Id": "{{ModId}}.CatCheeseburger",
+          "Texture": "Mods/{{ModId}}/CatCheeseburger",
+          "IconTexture": "Mods/{{ModId}}/Icons",
+          "IconSourceRect": {
+            "X": 64, "Y": 0, "Width": 16, "Height": 16
+          },
+          "BarkOverride": null,
+          "VoicePitch": 1.25
         }
       }
     },
     {
-      "Target": "Mods/{{ModId}}/Cat, Mods/{{ModId}}/CatTeddy, Mods/{{ModId}}/CatCalico",
+      "Target": "Mods/{{ModId}}/Cat, Mods/{{ModId}}/CatTeddy, Mods/{{ModId}}/CatCalico, Mods/{{ModId}}/CatMidnight, Mods/{{ModId}}/CatCheeseburger",
       "Action": "Load",
       "FromFile": "assets/{{TargetWithoutPath}}.png"
     },
