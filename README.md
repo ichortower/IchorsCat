@@ -16,6 +16,10 @@ animations](images/crouch-sleep-lick.gif)
 
 ![Preview: showing the flop on ground animation](images/flop.gif)
 
+![Preview: Midnight](images/midnight.png)
+
+![Preview: Cheeseburger](images/cheeseburger.png)
+
 (The animations are supposed to look a little janky. She was a [wobbly
 cat](https://vetmed.tamu.edu/news/pet-talk/wobbly-cat-syndrome/).)
 
